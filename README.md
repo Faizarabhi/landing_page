@@ -1,0 +1,1 @@
+![alt text](../my-angular-project/image.jpg)
