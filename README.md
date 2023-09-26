@@ -1,1 +1,1 @@
-![alt text](../my-angular-project/image.jpg)
+![alt text](./my-angular-project/image.jpg)
