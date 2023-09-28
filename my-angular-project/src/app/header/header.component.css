@@ -1,8 +1,6 @@
 /* header.component.css */
 .header {
   color: white;
-  /* margin: 0; */
-  /* padding: 2rem; */
   display: flex;
   justify-content: space-between;
 }

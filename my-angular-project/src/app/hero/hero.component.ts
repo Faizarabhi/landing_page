@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-hero',
   templateUrl: './hero.component.html',
-  styleUrls: ['./hero.component.css']
+  styleUrls: ['./hero.component.css'],
 })
 export class HeroComponent {
   imageSrc1: string = '/assets/elements/1.png';
@@ -19,5 +19,6 @@ export class HeroComponent {
   imageSrc10: string = '/assets/elements/10.png';
   imageSrc25: string = '/assets/elements/25.png';
   imageSrc24: string = '/assets/elements/24.png';
+
   imageAlt: string = 'My Image Alt Text';
 }
