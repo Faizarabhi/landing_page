@@ -1,6 +1,16 @@
 /* header.component.css */
 .header {
-  background-color: #ee2eee;
   color: white;
-  padding: 10px;
+  /* margin: 0; */
+  /* padding: 2rem; */
+  display: flex;
+  justify-content: space-between;
+}
+.left{
+  display: flex;
+  gap: 2rem;
+}
+.right{
+  display: flex;
+  gap: 1rem;
 }

@@ -1,1 +1,50 @@
 /* You can add global styles to this file, and also import other style files */
+*{
+  margin:0;
+  padding:0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+@font-face {
+  font-family: 'Mynerve';
+  src: url('assets/fonts/Montserrat-VariableFont_wght.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.logo {
+  background: red;
+  width: 3rem;
+  height: 3.3rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 23px;
+  border: 1px black solid;
+  padding: 00rem 2rem 0rem 2rem;
+}
+.button {
+  border-radius: 90rem;
+  padding: 0.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: bolde;
+  font-weight: bold;
+  font-size: 1rem;
+  color: white;
+  border: none;
+  height: 3rem;
+  padding: 00rem 2rem 00rem 2rem;
+}
+.purple {
+  background: #43273e;
+}
+.orange {
+  background: #fe5960;
+}
+.container{
+  margin: 3rem 8rem 0 8rem;
+}
