@@ -23,8 +23,8 @@
   align-items: center;
   font-size: 23px;
   border: 1px black solid;
-  padding: 00rem 2rem 0rem 2rem;
-  color:white;
+  padding: 0rem 3rem 0rem 3rem;
+    color:white;
 }
 .button {
   border-radius: 90rem;
@@ -49,4 +49,10 @@
 }
 .container{
   margin: 3rem 8rem 0 8rem;
+}
+ul {
+  list-style: none;
+}
+.light{
+  font-weight: 200;
 }
